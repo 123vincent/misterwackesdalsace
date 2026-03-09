@@ -1,7 +1,6 @@
 baseURL = "https://www.misterwackesdalsace.fr/"
 languageCode = "fr-FR"
 title = "Mister Wackes d'Alsace"
-theme = ""  # pas de thème externe, layouts custom
 
 [pagination]
   pagerSize = 9
