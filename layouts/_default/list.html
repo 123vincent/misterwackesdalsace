@@ -1,0 +1,62 @@
+{{ define "main" }}
+
+{{- $images := slice
+  "/images/slider/misterwackesdalsace_01.jpg"
+  "/images/slider/misterwackesdalsace_02.jpg"
+  "/images/slider/misterwackesdalsace_03.jpg"
+  "/images/slider/misterwackesdalsace_04.jpg"
+  "/images/slider/misterwackesdalsace_05.jpg"
+  "/images/slider/misterwackesdalsace_06.jpg"
+  "/images/slider/misterwackesdalsace_07.jpg"
+  "/images/slider/misterwackesdalsace_08.jpg"
+  "/images/slider/misterwackesdalsace_09.jpg"
+  "/images/slider/misterwackesdalsace_10.jpg"
+  "/images/slider/misterwackesdalsace_11.jpg"
+  "/images/slider/misterwackesdalsace_12.jpg"
+-}}
+
+{{- $posts := where .Site.RegularPages "Type" "post" -}}
+{{- $paginator := .Paginate $posts -}}
+{{- $pageIdx := sub $paginator.PageNumber 1 -}}
+{{- $bannerImg := index $images $pageIdx -}}
+
+<section class="posts-section">
+
+  {{ if $bannerImg }}
+  <div class="page-banner">
+    <img src="{{ $bannerImg }}" alt="Mister Wackes d'Alsace">
+  </div>
+  {{ end }}
+
+  {{ if .IsHome }}
+    <h1 class="section-title">Les aventures de Mister Wackes d'Alsace</h1>
+  {{ else }}
+    <h1 class="section-title">{{ .Title }}</h1>
+  {{ end }}
+
+  <div class="posts-grid">
+    {{ range $paginator.Pages }}
+    <article class="post-card">
+      <a href="{{ .RelPermalink }}">
+        {{ with .Params.featured_image }}
+        <div class="post-card-img">
+          <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+        </div>
+        {{ end }}
+        <div class="post-card-body">
+          <h2 class="post-card-title">{{ .Title }}</h2>
+          <time class="post-card-date">{{ .Date.Format "January 2006" }}</time>
+          {{ with .Description }}
+          <p class="post-card-desc">{{ . | truncate 120 }}</p>
+          {{ end }}
+        </div>
+      </a>
+    </article>
+    {{ end }}
+  </div>
+
+  {{ template "_internal/pagination.html" . }}
+
+</section>
+
+{{ end }}

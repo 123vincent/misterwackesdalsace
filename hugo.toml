@@ -1,0 +1,21 @@
+baseURL = "https://www.misterwackesdalsace.fr/"
+languageCode = "fr-FR"
+title = "Mister Wackes d'Alsace"
+theme = ""  # pas de thème externe, layouts custom
+
+[pagination]
+  pagerSize = 9
+
+[permalinks]
+  [permalinks.page]
+    posts = "/les-dernieres-nouvelles-de-mister-wackes-d-alsace/:year/:month/:slug/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # nécessaire pour le HTML inline dans le Markdown (galeries, iframes YouTube)
+
+[params]
+  description = "Les aventures de Mister Wackes d'Alsace, wackes alsacien au cœur du carnaval"
+  author = "Frédéric Richard"
+  mainSections = ["posts"]

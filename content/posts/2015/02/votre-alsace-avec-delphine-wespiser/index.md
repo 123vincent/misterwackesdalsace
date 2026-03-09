@@ -1,0 +1,62 @@
+---
+title: "Cigognes et carnaval avec Frédéric à Mulhouse"
+date: 2015-02-01
+description: "Tous les mercredis à 19h25, retrouvez Votre Alsace, avec Delphine Wespiser sur Alsace 20 TV. Cette semaine Delphine a rencontré Frédéric notre amoureux de l'Alsace et du Carnaval alsacien. Voici son histoire ... il était une fois Frédéric ..."
+slug: "votre-alsace-avec-delphine-wespiser"
+featured_image: "/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-08.jpg"
+type: "post"
+---
+
+## il était une fois ... Frédéric,
+
+Il était une fois, il y a fort longtemps 26 ans, est né dans la contrée d’Ensisheim en Alsace un petit homme que l’on nomma Frédéric. Dans sa jeunesse, Frédéric était très complice avec son grand-père. C’est son grand-père qui lui donna la passion pour la cuisine, pour la décoration (Noël, Pâques, etc.) et surtout pour le carnaval. Ensemble, ils regardaient les carnavals à la télévision sur les chaines allemandes, et descendaient dans la rue admirer les cavalcades en Alsace.
+
+Depuis Frédéric a fait son petit bout de chemin, a construit son petit nid à Mulhouse où il s’adonne à ses passions, peaufine ses décorations sur le thème de l’Alsace, étoffe sa collection de cigognes et prépare ses sorties de carnaval. En 2013 Frédéric créera l'association « Mister Wackes d'Alsace ». À la cuisine Frédéric prépare les recettes dont son grand-père avait le secret, c’est toujours un vrai régal. Les cigognes lui apportent prospérité et force pour faire face à la vie quotidienne et le carnaval lui procure gaieté et joie de vivre ...
+
+### Alsace20, la télé au grand cœur
+
+Depuis toujours, Frédéric suit avec beaucoup de passion le parcours de la plus belle ambassadrice alsacienne, [Delphine Wespiser](http://fr.wikipedia.org/wiki/Delphine_Wespiser), Miss France 2012. Un beau jour Frédéric décide de lui écrire pour tenter de participer à l’émission **« Votre Alsace, avec Delphine Wespiser »** sur la chaine de télévision [Alsace20](http://www.alsace20.tv/). Ce lundi 9 février 2015, Delphine toque à sa porte … youpiiii
+
+#### Reportage: Cigognes et carnaval avec Frédéric à Mulhouse
+
+[![ Alsace20 - Votre Alsace, avec Delphine Wespiser - Cigognes et carnaval avec Frédéric à Mulhouse](../../../../www.alsace20.tv/dynamic/images/logo_emissions/votre_alsace_delphine_wespiser_vignette.html)](http://www.alsace20.tv/VOD/Divertissement/Votre_Alsace_Avec_Delphine_Wespiser/Cigognes_et_carnaval_avec_Frederic_a_Mulhouse-Djgyweyfbu)
+*source: www.alsace20.tv - Votre Alsace, avec Delphine Wespiser - Chronique du 11 février 2015*
+
+### Delphine, je souhaite te remercie très chaleureusement pour ta gentillesse, ta simplicité, ta disponibilité, pour ce bel après-midi que nous avons passé ensemble. Le 9 février restera gravé dans ma mémoire pour trèèèèèès longtemps. <br/>J'aimerais aussi remercier le super travail du caméraman et de sa compagne pour ce beau montage vidéo.
+
+## Notre Alsace du cœur en image
+
+<div class="gallery-grid">
+  <a class="glightbox" href="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-01.jpg"><img src="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-01.jpg" alt="Alsace20 - Votre Alsace, avec Delphine Wespiser - Cigognes et carnaval avec Frédéric à Mulhouse" loading="lazy"></a>
+  <a class="glightbox" href="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-02.jpg"><img src="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-02.jpg" alt="Alsace20 - Votre Alsace, avec Delphine Wespiser - Cigognes et carnaval avec Frédéric à Mulhouse" loading="lazy"></a>
+  <a class="glightbox" href="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-03.jpg"><img src="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-03.jpg" alt="Alsace20 - Votre Alsace, avec Delphine Wespiser - Cigognes et carnaval avec Frédéric à Mulhouse" loading="lazy"></a>
+  <a class="glightbox" href="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-04.jpg"><img src="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-04.jpg" alt="Alsace20 - Votre Alsace, avec Delphine Wespiser - Cigognes et carnaval avec Frédéric à Mulhouse" loading="lazy"></a>
+  <a class="glightbox" href="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-05.jpg"><img src="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-05.jpg" alt="Alsace20 - Votre Alsace, avec Delphine Wespiser - Cigognes et carnaval avec Frédéric à Mulhouse" loading="lazy"></a>
+  <a class="glightbox" href="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-06.jpg"><img src="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-06.jpg" alt="Alsace20 - Votre Alsace, avec Delphine Wespiser - Cigognes et carnaval avec Frédéric à Mulhouse" loading="lazy"></a>
+  <a class="glightbox" href="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-07.jpg"><img src="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-07.jpg" alt="Alsace20 - Votre Alsace, avec Delphine Wespiser - Cigognes et carnaval avec Frédéric à Mulhouse" loading="lazy"></a>
+  <a class="glightbox" href="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-09.jpg"><img src="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-09.jpg" alt="Alsace20 - Votre Alsace, avec Delphine Wespiser - Cigognes et carnaval avec Frédéric à Mulhouse" loading="lazy"></a>
+  <a class="glightbox" href="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-10.jpg"><img src="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-10.jpg" alt="Alsace20 - Votre Alsace, avec Delphine Wespiser - Cigognes et carnaval avec Frédéric à Mulhouse" loading="lazy"></a>
+  <a class="glightbox" href="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-11.jpg"><img src="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-11.jpg" alt="Alsace20 - Votre Alsace, avec Delphine Wespiser et Frédéric alias Mister Wackes d'Alsace" loading="lazy"></a>
+  <a class="glightbox" href="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-12.jpg"><img src="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-12.jpg" alt="Alsace20 - Votre Alsace, avec Delphine Wespiser et Frédéric alias Mister Wackes d'Alsace" loading="lazy"></a>
+  <a class="glightbox" href="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-13.jpg"><img src="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-13.jpg" alt="Alsace20 - Votre Alsace, avec Delphine Wespiser - Cigognes et carnaval avec Frédéric à Mulhouse" loading="lazy"></a>
+  <a class="glightbox" href="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-14.jpg"><img src="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-14.jpg" alt="Alsace20 - Votre Alsace, avec Delphine Wespiser et Frédéric alias Mister Wackes d'Alsace" loading="lazy"></a>
+  <a class="glightbox" href="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-15.jpg"><img src="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-15.jpg" alt="Alsace20 - Votre Alsace, avec Delphine Wespiser - Cigognes et carnaval avec Frédéric à Mulhouse" loading="lazy"></a>
+  <a class="glightbox" href="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-16.jpg"><img src="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-16.jpg" alt="Alsace20 - Votre Alsace, avec Delphine Wespiser et Frédéric alias Mister Wackes d'Alsace" loading="lazy"></a>
+  <a class="glightbox" href="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-17.jpg"><img src="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-17.jpg" alt="Alsace20 - Votre Alsace, avec Delphine Wespiser - Cigognes et carnaval avec Frédéric à Mulhouse" loading="lazy"></a>
+  <a class="glightbox" href="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-18.jpg"><img src="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-18.jpg" alt="Alsace20 - Votre Alsace, avec Delphine Wespiser et Frédéric alias Mister Wackes d'Alsace" loading="lazy"></a>
+  <a class="glightbox" href="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-19.jpg"><img src="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-19.jpg" alt="Alsace20 - Votre Alsace, avec Delphine Wespiser - Cigognes et carnaval avec Frédéric à Mulhouse" loading="lazy"></a>
+  <a class="glightbox" href="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-20.jpg"><img src="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-20.jpg" alt="Alsace20 - Votre Alsace, avec Delphine Wespiser - Cigognes et carnaval avec Frédéric à Mulhouse" loading="lazy"></a>
+  <a class="glightbox" href="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-21.jpg"><img src="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-21.jpg" alt="Alsace20 - Votre Alsace, avec Delphine Wespiser - Cigognes et carnaval avec Frédéric à Mulhouse" loading="lazy"></a>
+  <a class="glightbox" href="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-22.jpg"><img src="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-22.jpg" alt="Alsace20 - Votre Alsace, avec Delphine Wespiser - Cigognes et carnaval avec Frédéric à Mulhouse" loading="lazy"></a>
+  <a class="glightbox" href="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-23.jpg"><img src="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-23.jpg" alt="Alsace20 - Votre Alsace, avec Delphine Wespiser et Frédéric alias Mister Wackes d'Alsace" loading="lazy"></a>
+  <a class="glightbox" href="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-24.jpg"><img src="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-24.jpg" alt="Alsace20 - Votre Alsace, avec Delphine Wespiser - Cigognes et carnaval avec Frédéric à Mulhouse" loading="lazy"></a>
+  <a class="glightbox" href="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-26.jpg"><img src="/images/2015-02-votre-alsace-avec-delphine-wespiser/Alsace20-avec-Delphine-Wespiser-chez-Frederic-26.jpg" alt="Alsace20 - Votre Alsace, avec Delphine Wespiser et Frédéric alias Mister Wackes d'Alsace" loading="lazy"></a>
+</div>
+
+
+## Liens utiles
+
+- [Delphine Wespiser chante « Plus proches qu'avant "Papapa" »](http://akoufene.com/delphine/home/1-delphine-wespiser-plus-proches-qu-avant.html)
+- [Delphine Wespiser sur Facebook](https://fr-fr.facebook.com/WespiserD)
+- [Twitter avec Delphine Wespiser](https://twitter.com/wespiserd)
+- [Alsace20, la chaîne Alsace](http://www.alsace20.tv/)

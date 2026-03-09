@@ -1,0 +1,25 @@
+{{ define "main" }}
+
+{{- $mois := slice "" "janvier" "février" "mars" "avril" "mai" "juin" "juillet" "août" "septembre" "octobre" "novembre" "décembre" -}}
+
+<article class="post-single">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ .Title }}</h1>
+    {{ if not .Date.IsZero }}{{ if ne (.Date.Format "2006") "0001" }}
+    <time class="post-date">{{ index $mois (.Date.Month | int) }} {{ .Date.Format "2006" }}</time>
+    {{ end }}{{ end }}
+    {{ with .Params.featured_image }}
+    <figure class="post-featured">
+      <img src="{{ . }}" alt="{{ $.Title }}">
+    </figure>
+    {{ end }}
+  </header>
+
+  <div class="post-content">
+    {{ .Content }}
+  </div>
+
+</article>
+
+{{ end }}
