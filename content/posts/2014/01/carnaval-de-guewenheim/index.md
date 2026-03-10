@@ -3,7 +3,7 @@ title: "Carnaval de Guewenheim, première cavalcade de la saison"
 date: 2014-01-01
 description: "Une cavalcade bercée de jovialité, de convivialité, de plaisirs, rendant le carnaval de Guewenheim si unique. Mister Wackes d’Alsace nous dévoile sa charmante dulcinée Elsa avec qui ils vous feront partager de nombreuses nouvelles aventures."
 slug: "carnaval-de-guewenheim"
-featured_image: "/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-070.jpg"
+featured_image: "/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-070.webp"
 type: "post"
 ---
 
@@ -25,43 +25,43 @@ Mister Wackes d’Alsace prend beaucoup de plaisir à participer à cette belle 
 
 Mister Wackes d'Alsace et sa dulcinée « Elsa » bras dessus-dessous au carnaval de Guewenheim.
 
-[![Guewenheim, un des premiers d'Alsace « Carnaval en folie »](/images/2014-01-carnaval-de-guewenheim/DNA-27012013-Carnaval-en-folie-Guewenheim.jpg)](/images/2014-01-carnaval-de-guewenheim/DNA-27012013-Carnaval-en-folie-Guewenheim.jpg)
+[![Guewenheim, un des premiers d'Alsace « Carnaval en folie »](/images/2014-01-carnaval-de-guewenheim/DNA-27012013-Carnaval-en-folie-Guewenheim.webp)](/images/2014-01-carnaval-de-guewenheim/DNA-27012013-Carnaval-en-folie-Guewenheim.webp)
 *source: journal DNA, 27 janvier 2014*
 
 
 ## Notre Alsace du cœur en image
 
 <div class="gallery-grid">
-  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-002.jpg"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-002.jpg" alt="Carnaval de Guewenheim 2014, Mister Wackes d'Alsace et Elsa" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-005.jpg"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-005.jpg" alt="Carnaval de Guewenheim 2014, Mister Wackes d'Alsace et Elsa" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-006.jpg"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-006.jpg" alt="Pascal organisateur du Carnaval de Guewenheim 2014 entouré de Mister Wackes d'Alsace et d'Elsa" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-016.jpg"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-016.jpg" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-021.jpg"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-021.jpg" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-030.jpg"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-030.jpg" alt="Carnaval de Guewenheim 2014, Mister Wackes d'Alsace et Elsa" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-031.jpg"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-031.jpg" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-035.jpg"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-035.jpg" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-038.jpg"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-038.jpg" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-040.jpg"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-040.jpg" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-048.jpg"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-048.jpg" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-054.jpg"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-054.jpg" alt="Carnaval de Guewenheim 2014, la Haxa Gugga de Rouffach" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-062.jpg"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-062.jpg" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-064.jpg"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-064.jpg" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-072.jpg"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-072.jpg" alt="Carnaval de Guewenheim 2014, Mister Wackes d'Alsace et Elsa" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-074.jpg"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-074.jpg" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-081.jpg"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-081.jpg" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-087.jpg"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-087.jpg" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-088.jpg"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-088.jpg" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-096.jpg"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-096.jpg" alt="Carnaval de Guewenheim 2014, la Crapaudière d'Eschentzwiller" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-097.jpg"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-097.jpg" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-104.jpg"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-104.jpg" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-109.jpg"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-109.jpg" alt="Carnaval de Guewenheim 2014, les Altikirch Waggis" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-116.jpg"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-116.jpg" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-119.jpg"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-119.jpg" alt="Carnaval de Guewenheim 2014, les Spatzawaggis de Roderen" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-121.jpg"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-121.jpg" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-125.jpg"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-125.jpg" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-126.jpg"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-126.jpg" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-127.jpg"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-127.jpg" alt="Carnaval de Guewenheim 2014, les Verructa Storcka de Cernay" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-132.jpg"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-132.jpg" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-002.webp"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-002.webp" alt="Carnaval de Guewenheim 2014, Mister Wackes d'Alsace et Elsa" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-005.webp"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-005.webp" alt="Carnaval de Guewenheim 2014, Mister Wackes d'Alsace et Elsa" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-006.webp"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-006.webp" alt="Pascal organisateur du Carnaval de Guewenheim 2014 entouré de Mister Wackes d'Alsace et d'Elsa" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-016.webp"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-016.webp" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-021.webp"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-021.webp" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-030.webp"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-030.webp" alt="Carnaval de Guewenheim 2014, Mister Wackes d'Alsace et Elsa" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-031.webp"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-031.webp" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-035.webp"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-035.webp" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-038.webp"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-038.webp" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-040.webp"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-040.webp" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-048.webp"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-048.webp" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-054.webp"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-054.webp" alt="Carnaval de Guewenheim 2014, la Haxa Gugga de Rouffach" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-062.webp"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-062.webp" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-064.webp"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-064.webp" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-072.webp"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-072.webp" alt="Carnaval de Guewenheim 2014, Mister Wackes d'Alsace et Elsa" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-074.webp"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-074.webp" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-081.webp"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-081.webp" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-087.webp"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-087.webp" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-088.webp"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-088.webp" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-096.webp"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-096.webp" alt="Carnaval de Guewenheim 2014, la Crapaudière d'Eschentzwiller" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-097.webp"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-097.webp" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-104.webp"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-104.webp" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-109.webp"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-109.webp" alt="Carnaval de Guewenheim 2014, les Altikirch Waggis" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-116.webp"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-116.webp" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-119.webp"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-119.webp" alt="Carnaval de Guewenheim 2014, les Spatzawaggis de Roderen" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-121.webp"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-121.webp" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-125.webp"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-125.webp" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-126.webp"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-126.webp" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-127.webp"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-127.webp" alt="Carnaval de Guewenheim 2014, les Verructa Storcka de Cernay" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-132.webp"><img src="/images/2014-01-carnaval-de-guewenheim/Carnaval-de-Guewenheim-132.webp" alt="Carnaval de Guewenheim 2014" loading="lazy"></a>
 </div>
 
 

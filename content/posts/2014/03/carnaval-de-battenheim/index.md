@@ -3,7 +3,7 @@ title: "Au Carnaval de Battenheim dans le royaume des sorcières"
 date: 2014-03-01
 description: "L’ambiance était estivale ce weekend au Carnaval de Battenheim dans le royaume des Battemer Narra. Une cavalcade aux couleurs éclatantes,  un public enchanté, des enfants stimulés par les bonbons maléfiques de nos sorcières bien aimées."
 slug: "carnaval-de-battenheim"
-featured_image: "/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-005.jpg"
+featured_image: "/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-005.webp"
 type: "post"
 ---
 
@@ -27,7 +27,7 @@ Loin de notre Alsace, loin de Köln berceau du carnaval rhénan, avait aussi lie
 
 « Mister Wackes d'Alsace, sa dulcinée Elsa et leur fille Liesala »
 
-[![Mister Wackes d'Alsace, sa dulcinèe Elsa et leur fille Liesala](/images/2014-03-carnaval-de-battenheim/LAlsace-03032014-Carnaval-de-Battenheim-thumbnail.jpg)](/images/2014-03-carnaval-de-battenheim/LAlsace-03032014-Carnaval-de-Battenheim.jpg)
+[![Mister Wackes d'Alsace, sa dulcinèe Elsa et leur fille Liesala](/images/2014-03-carnaval-de-battenheim/LAlsace-03032014-Carnaval-de-Battenheim-thumbnail.webp)](/images/2014-03-carnaval-de-battenheim/LAlsace-03032014-Carnaval-de-Battenheim.webp)
 
 *source: journal L'Alsace, 03 mars 2014*
 
@@ -41,36 +41,36 @@ Loin de notre Alsace, loin de Köln berceau du carnaval rhénan, avait aussi lie
 ## Notre Alsace du cœur en image
 
 <div class="gallery-grid">
-  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-001.jpg"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-001.jpg" alt="Carnaval de Battenheim 2014 et la petite famille de Mister Wackes d'Alsace" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-015.jpg"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-015.jpg" alt="Carnaval de Battenheim 2014 et la petite famille de Mister Wackes d'Alsace" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-017.jpg"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-017.jpg" alt="Carnaval de Battenheim 2014 et la petite famille de Mister Wackes d'Alsace" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-025.jpg"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-025.jpg" alt="Carnaval de Battenheim 2014" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-030.jpg"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-030.jpg" alt="Carnaval de Battenheim 2014 avec les Battemer Narra" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-033.jpg"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-033.jpg" alt="Carnaval de Battenheim 2014 avec les Battemer Narra" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-034.jpg"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-034.jpg" alt="Carnaval de Battenheim 2014 avec les Battemer Narra" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-037.jpg"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-037.jpg" alt="Carnaval de Battenheim 2014 avec les Neja Waj de Sélestat" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-042.jpg"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-042.jpg" alt="Carnaval de Battenheim 2014 et les majorettes" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-044.jpg"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-044.jpg" alt="Carnaval de Battenheim 2014 et les majorettes" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-047.jpg"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-047.jpg" alt="Carnaval de Battenheim 2014 et les majorettes" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-051.jpg"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-051.jpg" alt="Carnaval de Battenheim 2014 avec Gargamel et les Schtroumpfs de la Confrérie Furio de Mulhouse" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-055.jpg"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-055.jpg" alt="Carnaval de Battenheim 2014 et la Cook Music de Colmar" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-059.jpg"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-059.jpg" alt="Carnaval de Battenheim 2014 avec les Ansemer Waggis" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-060.jpg"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-060.jpg" alt="Carnaval de Battenheim 2014 avec les Ansemer Waggis" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-068.jpg"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-068.jpg" alt="Carnaval de Battenheim 2014 avec les Altkirch Waggis" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-070.jpg"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-070.jpg" alt="Carnaval de Battenheim 2014 avec les Altkirch Waggis" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-074.jpg"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-074.jpg" alt="Carnaval de Battenheim 2014" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-076.jpg"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-076.jpg" alt="Carnaval de Battenheim 2014" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-077.jpg"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-077.jpg" alt="Carnaval de Battenheim 2014" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-079.jpg"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-079.jpg" alt="Carnaval de Battenheim 2014 et les Monster Waggis" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-083.jpg"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-083.jpg" alt="Carnaval de Battenheim 2014 et les Monster Waggis" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-087.jpg"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-087.jpg" alt="Carnaval de Battenheim 2014 et les Zilli Wackes" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-089.jpg"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-089.jpg" alt="Carnaval de Battenheim 2014" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-092.jpg"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-092.jpg" alt="Carnaval de Battenheim 2014" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-103.jpg"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-103.jpg" alt="Carnaval de Battenheim 2014" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-106.jpg"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-106.jpg" alt="Carnaval de Battenheim 2014" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-124.jpg"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-124.jpg" alt="Carnaval de Battenheim 2014" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-133.jpg"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-133.jpg" alt="Carnaval de Battenheim 2014" loading="lazy"></a>
-  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-136.jpg"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-136.jpg" alt="Carnaval de Battenheim 2014" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-001.webp"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-001.webp" alt="Carnaval de Battenheim 2014 et la petite famille de Mister Wackes d'Alsace" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-015.webp"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-015.webp" alt="Carnaval de Battenheim 2014 et la petite famille de Mister Wackes d'Alsace" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-017.webp"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-017.webp" alt="Carnaval de Battenheim 2014 et la petite famille de Mister Wackes d'Alsace" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-025.webp"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-025.webp" alt="Carnaval de Battenheim 2014" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-030.webp"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-030.webp" alt="Carnaval de Battenheim 2014 avec les Battemer Narra" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-033.webp"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-033.webp" alt="Carnaval de Battenheim 2014 avec les Battemer Narra" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-034.webp"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-034.webp" alt="Carnaval de Battenheim 2014 avec les Battemer Narra" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-037.webp"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-037.webp" alt="Carnaval de Battenheim 2014 avec les Neja Waj de Sélestat" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-042.webp"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-042.webp" alt="Carnaval de Battenheim 2014 et les majorettes" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-044.webp"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-044.webp" alt="Carnaval de Battenheim 2014 et les majorettes" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-047.webp"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-047.webp" alt="Carnaval de Battenheim 2014 et les majorettes" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-051.webp"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-051.webp" alt="Carnaval de Battenheim 2014 avec Gargamel et les Schtroumpfs de la Confrérie Furio de Mulhouse" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-055.webp"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-055.webp" alt="Carnaval de Battenheim 2014 et la Cook Music de Colmar" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-059.webp"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-059.webp" alt="Carnaval de Battenheim 2014 avec les Ansemer Waggis" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-060.webp"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-060.webp" alt="Carnaval de Battenheim 2014 avec les Ansemer Waggis" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-068.webp"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-068.webp" alt="Carnaval de Battenheim 2014 avec les Altkirch Waggis" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-070.webp"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-070.webp" alt="Carnaval de Battenheim 2014 avec les Altkirch Waggis" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-074.webp"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-074.webp" alt="Carnaval de Battenheim 2014" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-076.webp"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-076.webp" alt="Carnaval de Battenheim 2014" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-077.webp"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-077.webp" alt="Carnaval de Battenheim 2014" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-079.webp"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-079.webp" alt="Carnaval de Battenheim 2014 et les Monster Waggis" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-083.webp"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-083.webp" alt="Carnaval de Battenheim 2014 et les Monster Waggis" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-087.webp"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-087.webp" alt="Carnaval de Battenheim 2014 et les Zilli Wackes" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-089.webp"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-089.webp" alt="Carnaval de Battenheim 2014" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-092.webp"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-092.webp" alt="Carnaval de Battenheim 2014" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-103.webp"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-103.webp" alt="Carnaval de Battenheim 2014" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-106.webp"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-106.webp" alt="Carnaval de Battenheim 2014" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-124.webp"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-124.webp" alt="Carnaval de Battenheim 2014" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-133.webp"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-133.webp" alt="Carnaval de Battenheim 2014" loading="lazy"></a>
+  <a class="glightbox" href="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-136.webp"><img src="/images/2014-03-carnaval-de-battenheim/Carnaval-de-Battenheim-136.webp" alt="Carnaval de Battenheim 2014" loading="lazy"></a>
 </div>
 
 

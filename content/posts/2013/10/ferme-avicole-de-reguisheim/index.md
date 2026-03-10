@@ -4,7 +4,7 @@ date: 2013-10-01
 description: "L'exploitation avicole de Réguisheim en Alsace est un élevage de poules pondeuses en plein air spécialisée dans la production et la vente d’œufs frais pour les professionnels et les particuliers. 
 Mister Wackes rend visite à ses amis fermiers."
 slug: "ferme-avicole-de-reguisheim"
-featured_image: "/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_40.jpg"
+featured_image: "/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_40.webp"
 type: "post"
 ---
 
@@ -40,18 +40,18 @@ Le tour de la ferme se termine par la visite des vastes champs de maïs qui long
 ## Notre Alsace du cœur en image
 
 <div class="gallery-grid">
-  <a class="glightbox" href="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_33.jpg"><img src="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_33.jpg" alt="Ferme avicole de Réguisheim - Haut-Rhin, élevage de poules pondeuses en plein air" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_35.jpg"><img src="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_35.jpg" alt="Ferme avicole de Réguisheim - Haut-Rhin, élevage de poules pondeuses en plein air" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_37.jpg"><img src="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_37.jpg" alt="Ferme avicole de Réguisheim - Haut-Rhin, élevage de poules pondeuses en plein air" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_45.jpg"><img src="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_45.jpg" alt="Ferme avicole de Réguisheim - Haut-Rhin, élevage de poules pondeuses en plein air" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_47.jpg"><img src="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_47.jpg" alt="Ferme avicole de Réguisheim - Haut-Rhin, élevage de poules pondeuses en plein air" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_51.jpg"><img src="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_51.jpg" alt="ferme avicole de Réguisheim" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_53.jpg"><img src="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_53.jpg" alt="ferme avicole de Réguisheim" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_54.jpg"><img src="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_54.jpg" alt="ferme avicole de Réguisheim" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_60.jpg"><img src="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_60.jpg" alt="ferme avicole de Réguisheim" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_65.jpg"><img src="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_65.jpg" alt="ferme avicole de Réguisheim" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_68.jpg"><img src="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_68.jpg" alt="ferme avicole de Réguisheim" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_80.jpg"><img src="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_80.jpg" alt="ferme avicole de Réguisheim" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_33.webp"><img src="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_33.webp" alt="Ferme avicole de Réguisheim - Haut-Rhin, élevage de poules pondeuses en plein air" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_35.webp"><img src="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_35.webp" alt="Ferme avicole de Réguisheim - Haut-Rhin, élevage de poules pondeuses en plein air" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_37.webp"><img src="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_37.webp" alt="Ferme avicole de Réguisheim - Haut-Rhin, élevage de poules pondeuses en plein air" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_45.webp"><img src="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_45.webp" alt="Ferme avicole de Réguisheim - Haut-Rhin, élevage de poules pondeuses en plein air" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_47.webp"><img src="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_47.webp" alt="Ferme avicole de Réguisheim - Haut-Rhin, élevage de poules pondeuses en plein air" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_51.webp"><img src="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_51.webp" alt="ferme avicole de Réguisheim" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_53.webp"><img src="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_53.webp" alt="ferme avicole de Réguisheim" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_54.webp"><img src="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_54.webp" alt="ferme avicole de Réguisheim" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_60.webp"><img src="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_60.webp" alt="ferme avicole de Réguisheim" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_65.webp"><img src="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_65.webp" alt="ferme avicole de Réguisheim" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_68.webp"><img src="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_68.webp" alt="ferme avicole de Réguisheim" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_80.webp"><img src="/images/2013-10-ferme-avicole-de-reguisheim/Mister_Wackes_chez_ses_amis_80.webp" alt="ferme avicole de Réguisheim" loading="lazy"></a>
 </div>
 
 

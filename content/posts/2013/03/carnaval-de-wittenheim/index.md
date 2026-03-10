@@ -3,7 +3,7 @@ title: "Wittenheim - Carnaval des familles"
 date: 2013-03-01
 description: "Du soleil et des Wackes plein les rues de Wittenheim. Mister Wackes d'Alsace accompagne ses amis les Spackwagges. Le public venu nombreux se glisse dans la file indienne et chante et danse à la queue leuleu."
 slug: "carnaval-de-wittenheim"
-featured_image: "/images/2013-03-carnaval-de-wittenheim/Mister_Wackes_dAlsace_dans_Journal_04.jpg"
+featured_image: "/images/2013-03-carnaval-de-wittenheim/Mister_Wackes_dAlsace_dans_Journal_04.webp"
 type: "post"
 ---
 
@@ -20,12 +20,12 @@ Et naturellement le public se glisse dans la file qui grandit grandit ... C'est 
 ## Notre Alsace du cœur en image
 
 <div class="gallery-grid">
-  <a class="glightbox" href="/images/2013-03-carnaval-de-wittenheim/Carnaval_Wittenheim_2013_051.jpg"><img src="/images/2013-03-carnaval-de-wittenheim/Carnaval_Wittenheim_2013_051.jpg" alt="Mister Wackes et ses amis les Spackwagges au Carnaval des familles à Wittenheim" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-03-carnaval-de-wittenheim/Carnaval_Wittenheim_2013_058.jpg"><img src="/images/2013-03-carnaval-de-wittenheim/Carnaval_Wittenheim_2013_058.jpg" alt="Mister Wackes et ses amis les Spackwagges au Carnaval des familles à Wittenheim" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-03-carnaval-de-wittenheim/Carnaval_Wittenheim_2013_082.jpg"><img src="/images/2013-03-carnaval-de-wittenheim/Carnaval_Wittenheim_2013_082.jpg" alt="Wittenheim - Carnaval des familles" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-03-carnaval-de-wittenheim/Carnaval_Wittenheim_2013_135.jpg"><img src="/images/2013-03-carnaval-de-wittenheim/Carnaval_Wittenheim_2013_135.jpg" alt="Wittenheim - Carnaval des familles" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-03-carnaval-de-wittenheim/Carnaval_Wittenheim_2013_155.jpg"><img src="/images/2013-03-carnaval-de-wittenheim/Carnaval_Wittenheim_2013_155.jpg" alt="Wittenheim - Carnaval des familles" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-03-carnaval-de-wittenheim/Carnaval_Wittenheim_2013_174.jpg"><img src="/images/2013-03-carnaval-de-wittenheim/Carnaval_Wittenheim_2013_174.jpg" alt="Wittenheim - Carnaval des familles" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-03-carnaval-de-wittenheim/Carnaval_Wittenheim_2013_051.webp"><img src="/images/2013-03-carnaval-de-wittenheim/Carnaval_Wittenheim_2013_051.webp" alt="Mister Wackes et ses amis les Spackwagges au Carnaval des familles à Wittenheim" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-03-carnaval-de-wittenheim/Carnaval_Wittenheim_2013_058.webp"><img src="/images/2013-03-carnaval-de-wittenheim/Carnaval_Wittenheim_2013_058.webp" alt="Mister Wackes et ses amis les Spackwagges au Carnaval des familles à Wittenheim" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-03-carnaval-de-wittenheim/Carnaval_Wittenheim_2013_082.webp"><img src="/images/2013-03-carnaval-de-wittenheim/Carnaval_Wittenheim_2013_082.webp" alt="Wittenheim - Carnaval des familles" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-03-carnaval-de-wittenheim/Carnaval_Wittenheim_2013_135.webp"><img src="/images/2013-03-carnaval-de-wittenheim/Carnaval_Wittenheim_2013_135.webp" alt="Wittenheim - Carnaval des familles" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-03-carnaval-de-wittenheim/Carnaval_Wittenheim_2013_155.webp"><img src="/images/2013-03-carnaval-de-wittenheim/Carnaval_Wittenheim_2013_155.webp" alt="Wittenheim - Carnaval des familles" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-03-carnaval-de-wittenheim/Carnaval_Wittenheim_2013_174.webp"><img src="/images/2013-03-carnaval-de-wittenheim/Carnaval_Wittenheim_2013_174.webp" alt="Wittenheim - Carnaval des familles" loading="lazy"></a>
 </div>
 
 

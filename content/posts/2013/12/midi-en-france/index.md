@@ -3,7 +3,7 @@ title: "France 3 - Midi en France en direct de Strasbourg le 16 décembre 2013 �
 date: 2013-12-01
 description: "Ce lundi 16 décembre, Mister Wackes d'Alsace assiste à l'émission de France 3 - Midi en France depuis Strasbourg. Le marché de Noël de Strasbourg rayonne dans le monde. La Petite France, un concentré d'Alsace à Strasbourg. La cathédrale vue d'en haut."
 slug: "midi-en-france"
-featured_image: "/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-16.jpg"
+featured_image: "/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-16.webp"
 type: "post"
 ---
 
@@ -27,15 +27,15 @@ Ce lundi 16 décembre, Mister Wackes d'Alsace assiste à l'émission télévisé
 ## Notre Alsace du cœur en image
 
 <div class="gallery-grid">
-  <a class="glightbox" href="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-03.jpg"><img src="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-03.jpg" alt="France 3, Midi en France" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-06.jpg"><img src="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-06.jpg" alt="France 3, Midi en France" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-08.jpg"><img src="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-08.jpg" alt="France 3, Midi en France" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-11.jpg"><img src="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-11.jpg" alt="France 3, Midi en France" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-16.jpg"><img src="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-16.jpg" alt="France 3, Midi en France, Laurent Boyer accueille Mister Wackes d'Alsace" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-21.jpg"><img src="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-21.jpg" alt="France 3, Midi en France, Mister Wackes d'Alsace remet médaille à Laurent boyer pour protéger la ville" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-24.jpg"><img src="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-24.jpg" alt="France 3, Midi en France, émission animée par Laurent Boyer" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-28.jpg"><img src="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-28.jpg" alt="France 3, Midi en France" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-45.jpg"><img src="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-45.jpg" alt="France 3, Midi en France" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-03.webp"><img src="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-03.webp" alt="France 3, Midi en France" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-06.webp"><img src="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-06.webp" alt="France 3, Midi en France" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-08.webp"><img src="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-08.webp" alt="France 3, Midi en France" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-11.webp"><img src="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-11.webp" alt="France 3, Midi en France" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-16.webp"><img src="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-16.webp" alt="France 3, Midi en France, Laurent Boyer accueille Mister Wackes d'Alsace" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-21.webp"><img src="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-21.webp" alt="France 3, Midi en France, Mister Wackes d'Alsace remet médaille à Laurent boyer pour protéger la ville" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-24.webp"><img src="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-24.webp" alt="France 3, Midi en France, émission animée par Laurent Boyer" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-28.webp"><img src="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-28.webp" alt="France 3, Midi en France" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-45.webp"><img src="/images/2013-12-midi-en-france/2013-12-16-France3-Midi-en-France-depuis-Strasbourg-45.webp" alt="France 3, Midi en France" loading="lazy"></a>
 </div>
 
 

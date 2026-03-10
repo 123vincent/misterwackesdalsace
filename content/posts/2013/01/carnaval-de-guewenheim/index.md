@@ -3,7 +3,7 @@ title: "Première sortie de Mister Wackes d'Alsace à la cavalcade de Guewenheim
 date: 2013-01-01
 description: "Mister Wackes d'Alsace fait sa première apparition au carnaval de Guewenheim 2013, aux cotés de ses amis de la Crapaudière. Une belle occasion de faire la fête et de voler des sourires aux nombreuses familles présentes."
 slug: "carnaval-de-guewenheim"
-featured_image: "/images/2013-01-carnaval-de-guewenheim/Carnaval_Guewenheim_2013_070.jpg"
+featured_image: "/images/2013-01-carnaval-de-guewenheim/Carnaval_Guewenheim_2013_070.webp"
 type: "post"
 ---
 
@@ -19,12 +19,12 @@ Belle fête, super organisation, superbe cavalcade ... cet excellent début de c
 ## Notre Alsace du cœur en image
 
 <div class="gallery-grid">
-  <a class="glightbox" href="/images/2013-01-carnaval-de-guewenheim/Carnaval_Guewenheim_2013_013-2.jpg"><img src="/images/2013-01-carnaval-de-guewenheim/Carnaval_Guewenheim_2013_013-2.jpg" alt="Mister Wackes d'Alsace au carnaval de Guewenheim 2013" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-01-carnaval-de-guewenheim/Carnaval_Guewenheim_2013_015.jpg"><img src="/images/2013-01-carnaval-de-guewenheim/Carnaval_Guewenheim_2013_015.jpg" alt="Mister Wackes d'Alsace au carnaval de Guewenheim 2013" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-01-carnaval-de-guewenheim/Carnaval_Guewenheim_2013_017.jpg"><img src="/images/2013-01-carnaval-de-guewenheim/Carnaval_Guewenheim_2013_017.jpg" alt="Mister Wackes d'Alsace au carnaval de Guewenheim 2013" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-01-carnaval-de-guewenheim/Carnaval_Guewenheim_2013_032.jpg"><img src="/images/2013-01-carnaval-de-guewenheim/Carnaval_Guewenheim_2013_032.jpg" alt="Mister Wackes d'Alsace au carnaval de Guewenheim 2013" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-01-carnaval-de-guewenheim/Carnaval_Guewenheim_2013_033.jpg"><img src="/images/2013-01-carnaval-de-guewenheim/Carnaval_Guewenheim_2013_033.jpg" alt="Mister Wackes d'Alsace au carnaval de Guewenheim 2013" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-01-carnaval-de-guewenheim/Carnaval_Guewenheim_2013_044.jpg"><img src="/images/2013-01-carnaval-de-guewenheim/Carnaval_Guewenheim_2013_044.jpg" alt="Mister Wackes d'Alsace au carnaval de Guewenheim 2013" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-01-carnaval-de-guewenheim/Carnaval_Guewenheim_2013_013-2.webp"><img src="/images/2013-01-carnaval-de-guewenheim/Carnaval_Guewenheim_2013_013-2.webp" alt="Mister Wackes d'Alsace au carnaval de Guewenheim 2013" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-01-carnaval-de-guewenheim/Carnaval_Guewenheim_2013_015.webp"><img src="/images/2013-01-carnaval-de-guewenheim/Carnaval_Guewenheim_2013_015.webp" alt="Mister Wackes d'Alsace au carnaval de Guewenheim 2013" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-01-carnaval-de-guewenheim/Carnaval_Guewenheim_2013_017.webp"><img src="/images/2013-01-carnaval-de-guewenheim/Carnaval_Guewenheim_2013_017.webp" alt="Mister Wackes d'Alsace au carnaval de Guewenheim 2013" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-01-carnaval-de-guewenheim/Carnaval_Guewenheim_2013_032.webp"><img src="/images/2013-01-carnaval-de-guewenheim/Carnaval_Guewenheim_2013_032.webp" alt="Mister Wackes d'Alsace au carnaval de Guewenheim 2013" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-01-carnaval-de-guewenheim/Carnaval_Guewenheim_2013_033.webp"><img src="/images/2013-01-carnaval-de-guewenheim/Carnaval_Guewenheim_2013_033.webp" alt="Mister Wackes d'Alsace au carnaval de Guewenheim 2013" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-01-carnaval-de-guewenheim/Carnaval_Guewenheim_2013_044.webp"><img src="/images/2013-01-carnaval-de-guewenheim/Carnaval_Guewenheim_2013_044.webp" alt="Mister Wackes d'Alsace au carnaval de Guewenheim 2013" loading="lazy"></a>
 </div>
 
 

@@ -3,7 +3,7 @@ title: "Mister Wackes d'Alsace à la \"Eyes Wide Party\""
 date: 2013-02-01
 description: "Carnaval de Mulhouse. Eyes Wide Party organisée par le Jet 7 Club. L'Afterwork fête ses 5 ans. Retrouvez Mister Wackes d'Alsace et ses amis à cette Spéciale Carnaval de Mulhouse et dansez avec lui jusqu'à bout de la nuit."
 slug: "carnavalia-afterwork-mulhouse"
-featured_image: "/images/2013-02-carnavalia-afterwork-mulhouse/Mister_Wackes_dAlsace_dans_Journal_03.jpg"
+featured_image: "/images/2013-02-carnavalia-afterwork-mulhouse/Mister_Wackes_dAlsace_dans_Journal_03.webp"
 type: "post"
 ---
 
@@ -19,12 +19,12 @@ Le charme naturel de Mister Wackes d'Alsace lui a même valu des traces de rouge
 ## Notre Alsace du cœur en image
 
 <div class="gallery-grid">
-  <a class="glightbox" href="/images/2013-02-carnavalia-afterwork-mulhouse/60ans_Carnaval_Mulhouse_Jeudi_Soir_002.jpg"><img src="/images/2013-02-carnavalia-afterwork-mulhouse/60ans_Carnaval_Mulhouse_Jeudi_Soir_002.jpg" alt="Carnaval de Mulhouse - Carnavalia Afterwork - Spéciale Saint Valentin" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-02-carnavalia-afterwork-mulhouse/60ans_Carnaval_Mulhouse_Jeudi_Soir_016.jpg"><img src="/images/2013-02-carnavalia-afterwork-mulhouse/60ans_Carnaval_Mulhouse_Jeudi_Soir_016.jpg" alt="Carnaval de Mulhouse - Carnavalia Afterwork - Spéciale Saint Valentin" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-02-carnavalia-afterwork-mulhouse/60ans_Carnaval_Mulhouse_Jeudi_Soir_048.jpg"><img src="/images/2013-02-carnavalia-afterwork-mulhouse/60ans_Carnaval_Mulhouse_Jeudi_Soir_048.jpg" alt="Carnaval de Mulhouse - Carnavalia Afterwork - Spéciale Saint Valentin" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-02-carnavalia-afterwork-mulhouse/60ans_Carnaval_Mulhouse_Jeudi_Soir_049.jpg"><img src="/images/2013-02-carnavalia-afterwork-mulhouse/60ans_Carnaval_Mulhouse_Jeudi_Soir_049.jpg" alt="Mister Wackes et ses amis Riedesser Wagges à l'Afterwork à Mulhouse" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-02-carnavalia-afterwork-mulhouse/60ans_Carnaval_Mulhouse_Jeudi_Soir_051.jpg"><img src="/images/2013-02-carnavalia-afterwork-mulhouse/60ans_Carnaval_Mulhouse_Jeudi_Soir_051.jpg" alt="Mister Wackes aux cotés des Miss Mülhüser Waggis 2013 à l'Afterwork à Mulhouse" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-02-carnavalia-afterwork-mulhouse/60ans_Carnaval_Mulhouse_Jeudi_Soir_068.jpg"><img src="/images/2013-02-carnavalia-afterwork-mulhouse/60ans_Carnaval_Mulhouse_Jeudi_Soir_068.jpg" alt="Carnaval de Mulhouse - Carnavalia Afterwork - Spéciale Saint Valentin" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-02-carnavalia-afterwork-mulhouse/60ans_Carnaval_Mulhouse_Jeudi_Soir_002.webp"><img src="/images/2013-02-carnavalia-afterwork-mulhouse/60ans_Carnaval_Mulhouse_Jeudi_Soir_002.webp" alt="Carnaval de Mulhouse - Carnavalia Afterwork - Spéciale Saint Valentin" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-02-carnavalia-afterwork-mulhouse/60ans_Carnaval_Mulhouse_Jeudi_Soir_016.webp"><img src="/images/2013-02-carnavalia-afterwork-mulhouse/60ans_Carnaval_Mulhouse_Jeudi_Soir_016.webp" alt="Carnaval de Mulhouse - Carnavalia Afterwork - Spéciale Saint Valentin" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-02-carnavalia-afterwork-mulhouse/60ans_Carnaval_Mulhouse_Jeudi_Soir_048.webp"><img src="/images/2013-02-carnavalia-afterwork-mulhouse/60ans_Carnaval_Mulhouse_Jeudi_Soir_048.webp" alt="Carnaval de Mulhouse - Carnavalia Afterwork - Spéciale Saint Valentin" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-02-carnavalia-afterwork-mulhouse/60ans_Carnaval_Mulhouse_Jeudi_Soir_049.webp"><img src="/images/2013-02-carnavalia-afterwork-mulhouse/60ans_Carnaval_Mulhouse_Jeudi_Soir_049.webp" alt="Mister Wackes et ses amis Riedesser Wagges à l'Afterwork à Mulhouse" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-02-carnavalia-afterwork-mulhouse/60ans_Carnaval_Mulhouse_Jeudi_Soir_051.webp"><img src="/images/2013-02-carnavalia-afterwork-mulhouse/60ans_Carnaval_Mulhouse_Jeudi_Soir_051.webp" alt="Mister Wackes aux cotés des Miss Mülhüser Waggis 2013 à l'Afterwork à Mulhouse" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-02-carnavalia-afterwork-mulhouse/60ans_Carnaval_Mulhouse_Jeudi_Soir_068.webp"><img src="/images/2013-02-carnavalia-afterwork-mulhouse/60ans_Carnaval_Mulhouse_Jeudi_Soir_068.webp" alt="Carnaval de Mulhouse - Carnavalia Afterwork - Spéciale Saint Valentin" loading="lazy"></a>
 </div>
 
 

@@ -3,7 +3,7 @@ title: "Mister Wackes d'Alsace de sortie à Ribeauvillé"
 date: 2013-08-01
 description: "Ribeauvillé, ville touristique est située en plein cœur de l'Alsace. Mister Wackes se mêle aux touristes. Découverte de cette ville typiquement alsacienne et pleine de charme. Photos, lèche vitrine et plein de beaux souvenirs …"
 slug: "mister-wackes-dalsace-de-sortie-a-ribeauville"
-featured_image: "/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_041.jpg"
+featured_image: "/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_041.webp"
 type: "post"
 ---
 
@@ -21,15 +21,15 @@ Si vous ne connaissez pas Ribeauvillé, Mister Wackes d'Alsace vous invité à d
 ## Notre Alsace du cœur en image
 
 <div class="gallery-grid">
-  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_007.jpg"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_007.jpg" alt="Mister Wackes d'Alsace de sortie à Ribeauvillé" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_017.jpg"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_017.jpg" alt="Mister Wackes d'Alsace de sortie à Ribeauvillé" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_021.jpg"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_021.jpg" alt="Mister Wackes d'Alsace de sortie à Ribeauvillé" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_027.jpg"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_027.jpg" alt="Mister Wackes d'Alsace de sortie à Ribeauvillé" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_031.jpg"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_031.jpg" alt="Mister Wackes à Riquewihr, typique ville alsacienne située en plein cœur de l'Alsace et bordée par les vignes" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_035.jpg"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_035.jpg" alt="Mister Wackes d'Alsace de sortie à Ribeauvillé" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_048.jpg"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_048.jpg" alt="Mister Wackes d'Alsace de sortie à Ribeauvillé" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_054.jpg"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_054.jpg" alt="Mister Wackes d'Alsace de sortie à Ribeauvillé" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_063.jpg"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_063.jpg" alt="Mister Wackes d'Alsace de sortie à Ribeauvillé" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_007.webp"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_007.webp" alt="Mister Wackes d'Alsace de sortie à Ribeauvillé" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_017.webp"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_017.webp" alt="Mister Wackes d'Alsace de sortie à Ribeauvillé" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_021.webp"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_021.webp" alt="Mister Wackes d'Alsace de sortie à Ribeauvillé" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_027.webp"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_027.webp" alt="Mister Wackes d'Alsace de sortie à Ribeauvillé" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_031.webp"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_031.webp" alt="Mister Wackes à Riquewihr, typique ville alsacienne située en plein cœur de l'Alsace et bordée par les vignes" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_035.webp"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_035.webp" alt="Mister Wackes d'Alsace de sortie à Ribeauvillé" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_048.webp"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_048.webp" alt="Mister Wackes d'Alsace de sortie à Ribeauvillé" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_054.webp"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_054.webp" alt="Mister Wackes d'Alsace de sortie à Ribeauvillé" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_063.webp"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-ribeauville/Sortie_Ribeauville_063.webp" alt="Mister Wackes d'Alsace de sortie à Ribeauvillé" loading="lazy"></a>
 </div>
 
 

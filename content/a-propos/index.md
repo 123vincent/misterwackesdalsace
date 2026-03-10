@@ -7,7 +7,7 @@ _build:
 list: never
 ---
 
-![Portrait de Mister Wackes d'Alsace](/images/a-propos/portrait_misterwackesdalsace.jpg)
+![Portrait de Mister Wackes d'Alsace](/images/a-propos/portrait_misterwackesdalsace.webp)
 
 ## Qui suis-je?
 
@@ -34,7 +34,7 @@ Découvre les aventures de Mister Wackes d'Alsace entouré de ses amis et laisse
 Tu peux aussi me retrouver sur ma page Facebook avec pleins de sorties et d'images.  
 Si tu apprécies ma compagnie, n'oublie pas de cliquer sur le bouton ["j'aime"](http://www.facebook.com/pages/Mister-Wackes-DAlsace/574996242528836) sur mon profil Facebook, merci.
 
-![60ans Carnaval de Mulhouse - Dimanche](/images/a-propos/60ans_carnaval_mulhouse.jpg)
+![60ans Carnaval de Mulhouse - Dimanche](/images/a-propos/60ans_carnaval_mulhouse.webp)
 
 ## témoignage
 

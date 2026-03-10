@@ -3,7 +3,7 @@ title: "Mister Wackes se promène sur la Route des Vins d'Alsace."
 date: 2013-09-01
 description: "Mister Wackes fier de sa région s'arrête sur la route des vins entre deux villages alsaciens, et va constater la maturité du raisin. Septembre période des vendanges. Vinification, transformation du moût en vin dans les caves de notre si belle région."
 slug: "le-vignoble-alsacien"
-featured_image: "/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_071.jpg"
+featured_image: "/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_071.webp"
 type: "post"
 ---
 
@@ -25,13 +25,13 @@ Spack … tiens ça me rappelle quelque chose … Spackwagges, mais oui ce sont 
 ## Notre Alsace du cœur en image
 
 <div class="gallery-grid">
-  <a class="glightbox" href="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_067.jpg"><img src="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_067.jpg" alt="le vignoble alsacien" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_068.jpg"><img src="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_068.jpg" alt="le vignoble alsacien" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_069.jpg"><img src="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_069.jpg" alt="le vignoble alsacien" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_070.jpg"><img src="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_070.jpg" alt="le vignoble alsacien" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_071.jpg"><img src="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_071.jpg" alt="Gewurztraminer, Riesling, Pinot Gris, Sylvaner, Muscat, Crémant sont les trésors notre vignoble alsacien. Suivez la route des vins" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_074.jpg"><img src="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_074.jpg" alt="le vignoble alsacien" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_075.jpg"><img src="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_075.jpg" alt="le vignoble alsacien" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_076.jpg"><img src="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_076.jpg" alt="le vignoble alsacien" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_077.jpg"><img src="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_077.jpg" alt="le vignoble alsacien" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_067.webp"><img src="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_067.webp" alt="le vignoble alsacien" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_068.webp"><img src="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_068.webp" alt="le vignoble alsacien" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_069.webp"><img src="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_069.webp" alt="le vignoble alsacien" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_070.webp"><img src="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_070.webp" alt="le vignoble alsacien" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_071.webp"><img src="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_071.webp" alt="Gewurztraminer, Riesling, Pinot Gris, Sylvaner, Muscat, Crémant sont les trésors notre vignoble alsacien. Suivez la route des vins" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_074.webp"><img src="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_074.webp" alt="le vignoble alsacien" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_075.webp"><img src="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_075.webp" alt="le vignoble alsacien" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_076.webp"><img src="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_076.webp" alt="le vignoble alsacien" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_077.webp"><img src="/images/2013-09-le-vignoble-alsacien/Sortie_Ribeauville_Riquewihr_077.webp" alt="le vignoble alsacien" loading="lazy"></a>
 </div>

@@ -3,7 +3,7 @@ title: "Rencontre avec Miss France 2012"
 date: 2013-04-01
 description: "Mister Wackes d'Alsace a rencontré Miss France 2012, Delphine Wespiser, au Hyper U de Sierentz. L'occasion de piquer un fard, d'échanger quelques mots, de faire quelques belles photos et de garder un bon souvenir."
 slug: "miss-france-2012"
-featured_image: "/images/2013-04-miss-france-2012/Miss_France_2012_09.jpg"
+featured_image: "/images/2013-04-miss-france-2012/Miss_France_2012_09.webp"
 type: "post"
 ---
 
@@ -39,12 +39,12 @@ Nous t'aimons pour ta simplicité et pour qui tu es ... merci Delphine
 ## Notre Alsace du cœur en image
 
 <div class="gallery-grid">
-  <a class="glightbox" href="/images/2013-04-miss-france-2012/Miss_France_2012_02.jpg"><img src="/images/2013-04-miss-france-2012/Miss_France_2012_02.jpg" alt="Miss France 2012 et Mister Wackes d'Alsace" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-04-miss-france-2012/Miss_France_2012_04.jpg"><img src="/images/2013-04-miss-france-2012/Miss_France_2012_04.jpg" alt="Miss France 2012 et Mister Wackes d'Alsace" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-04-miss-france-2012/Miss_France_2012_06.jpg"><img src="/images/2013-04-miss-france-2012/Miss_France_2012_06.jpg" alt="Delphine Wespiser, Miss France 2012 et Mister Wackes d'Alsace" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-04-miss-france-2012/Miss_France_2012_09.jpg"><img src="/images/2013-04-miss-france-2012/Miss_France_2012_09.jpg" alt="Delphine Wespiser, Miss France 2012 et Mister Wackes d'Alsace" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-04-miss-france-2012/Miss_France_2012_13.jpg"><img src="/images/2013-04-miss-france-2012/Miss_France_2012_13.jpg" alt="Miss France 2012 et Mister Wackes d'Alsace" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-04-miss-france-2012/Miss_France_2012_15.jpg"><img src="/images/2013-04-miss-france-2012/Miss_France_2012_15.jpg" alt="Miss France 2012 et Mister Wackes d'Alsace" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-04-miss-france-2012/Miss_France_2012_02.webp"><img src="/images/2013-04-miss-france-2012/Miss_France_2012_02.webp" alt="Miss France 2012 et Mister Wackes d'Alsace" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-04-miss-france-2012/Miss_France_2012_04.webp"><img src="/images/2013-04-miss-france-2012/Miss_France_2012_04.webp" alt="Miss France 2012 et Mister Wackes d'Alsace" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-04-miss-france-2012/Miss_France_2012_06.webp"><img src="/images/2013-04-miss-france-2012/Miss_France_2012_06.webp" alt="Delphine Wespiser, Miss France 2012 et Mister Wackes d'Alsace" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-04-miss-france-2012/Miss_France_2012_09.webp"><img src="/images/2013-04-miss-france-2012/Miss_France_2012_09.webp" alt="Delphine Wespiser, Miss France 2012 et Mister Wackes d'Alsace" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-04-miss-france-2012/Miss_France_2012_13.webp"><img src="/images/2013-04-miss-france-2012/Miss_France_2012_13.webp" alt="Miss France 2012 et Mister Wackes d'Alsace" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-04-miss-france-2012/Miss_France_2012_15.webp"><img src="/images/2013-04-miss-france-2012/Miss_France_2012_15.webp" alt="Miss France 2012 et Mister Wackes d'Alsace" loading="lazy"></a>
 </div>
 
 

@@ -3,7 +3,7 @@ title: "La cavalcade des enfants des écoles de la Sapinette et des Coccinelles 
 date: 2013-02-01
 description: "Les écoles maternelles La Sapinette et les Coccinelles se sont associées cette année pour organiser un superbe carnaval, haut en couleur et plein d'imagination. Avec la Participation de Mister Wackes d'Alsace et de ses amis."
 slug: "carnaval-de-la-sapinette-et-des-coccinelles"
-featured_image: "/images/2013-02-carnaval-de-la-sapinette-et-des-coccinelles/Gazette_Vieux-Thann_2013_01.jpg"
+featured_image: "/images/2013-02-carnaval-de-la-sapinette-et-des-coccinelles/Gazette_Vieux-Thann_2013_01.webp"
 type: "post"
 ---
 

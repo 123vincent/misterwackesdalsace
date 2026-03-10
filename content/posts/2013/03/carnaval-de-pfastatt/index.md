@@ -3,7 +3,7 @@ title: "Carnaval de Pfastatt"
 date: 2013-03-01
 description: "Grande cavalcade dans les rues de Pfastatt. Mister Wackes d'Alsace, a fière allure, parapluie de la main gauche, bonbons de la main droite. Défilé suivi d'un show carnavalesque, présentation des groupes et animations musicales dans la salle polyvalente."
 slug: "carnaval-de-pfastatt"
-featured_image: "/images/2013-03-carnaval-de-pfastatt/Mister_Wackes_dAlsace_dans_Journal_02.jpg"
+featured_image: "/images/2013-03-carnaval-de-pfastatt/Mister_Wackes_dAlsace_dans_Journal_02.webp"
 type: "post"
 ---
 
@@ -20,15 +20,15 @@ Il avait fière allure Mister Wackes d'Alsace, parapluie de la main gauche, bonb
 ## Notre Alsace du cœur en image
 
 <div class="gallery-grid">
-  <a class="glightbox" href="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_019.jpg"><img src="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_019.jpg" alt="Carnaval de Pfastatt" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_036.jpg"><img src="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_036.jpg" alt="Carnaval de Pfastatt" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_050.jpg"><img src="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_050.jpg" alt="Mister Wackes d'Alsace avec ses amis Spackwagges à la grande cavalcade carnavalesque Pfastatt" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_053.jpg"><img src="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_053.jpg" alt="Carnaval de Pfastatt" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_079.jpg"><img src="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_079.jpg" alt="Carnaval de Pfastatt" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_105.jpg"><img src="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_105.jpg" alt="Mister Wackes d'Alsace et son ami Jean Pozzo au Carnaval de Pfastatt" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_130.jpg"><img src="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_130.jpg" alt="Carnaval de Pfastatt" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_151.jpg"><img src="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_151.jpg" alt="Carnaval de Pfastatt" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_156.jpg"><img src="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_156.jpg" alt="Carnaval de Pfastatt" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_019.webp"><img src="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_019.webp" alt="Carnaval de Pfastatt" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_036.webp"><img src="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_036.webp" alt="Carnaval de Pfastatt" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_050.webp"><img src="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_050.webp" alt="Mister Wackes d'Alsace avec ses amis Spackwagges à la grande cavalcade carnavalesque Pfastatt" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_053.webp"><img src="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_053.webp" alt="Carnaval de Pfastatt" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_079.webp"><img src="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_079.webp" alt="Carnaval de Pfastatt" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_105.webp"><img src="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_105.webp" alt="Mister Wackes d'Alsace et son ami Jean Pozzo au Carnaval de Pfastatt" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_130.webp"><img src="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_130.webp" alt="Carnaval de Pfastatt" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_151.webp"><img src="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_151.webp" alt="Carnaval de Pfastatt" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_156.webp"><img src="/images/2013-03-carnaval-de-pfastatt/Carnaval_Pfastatt_2013_156.webp" alt="Carnaval de Pfastatt" loading="lazy"></a>
 </div>
 
 

@@ -3,7 +3,7 @@ title: "Cavalcade des enfants dans les rues de Bollwiller"
 date: 2014-02-01
 description: "Mister Wackes d’Alsace participe à la Cavalcade des enfants à Bollwiller, berceau de notre association. Les enfants des écoles maternelles Les Lutins, Château, de l’école élémentaire et de l’école Papillons Blancs défilent dans les rues du village."
 slug: "carnaval-des-enfants-bollwiller"
-featured_image: "/images/2014-02-carnaval-des-enfants-bollwiller/Carnaval-des-enfants-Bollwiller-35.jpg"
+featured_image: "/images/2014-02-carnaval-des-enfants-bollwiller/Carnaval-des-enfants-Bollwiller-35.webp"
 type: "post"
 ---
 
@@ -32,7 +32,7 @@ Chez nos voisins allemands goutez aux savoureux « [Berliner](https://www.google
 
 « La cavalcades des écoliers de Bollwiller est un vrai moment d'amusement »
 
-[![Bollwiller, Cavalcade des ècoles - Les enfants dans la rue](/images/2014-02-carnaval-des-enfants-bollwiller/DNA-25022014-Bollwiller-Cavalcade-des-ecoles-Les-enfants-dans-la-rue-thumbnail.jpg)](/images/2014-02-carnaval-des-enfants-bollwiller/DNA-25022014-Bollwiller-Cavalcade-des-ecoles-Les-enfants-dans-la-rue.jpg)
+[![Bollwiller, Cavalcade des ècoles - Les enfants dans la rue](/images/2014-02-carnaval-des-enfants-bollwiller/DNA-25022014-Bollwiller-Cavalcade-des-ecoles-Les-enfants-dans-la-rue-thumbnail.webp)](/images/2014-02-carnaval-des-enfants-bollwiller/DNA-25022014-Bollwiller-Cavalcade-des-ecoles-Les-enfants-dans-la-rue.webp)
 
 *source: journal DNA, 25 février 2014*
 

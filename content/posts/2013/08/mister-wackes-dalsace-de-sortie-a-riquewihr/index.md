@@ -3,7 +3,7 @@ title: "Mister Wackes d'Alsace est allé se promener à Riquewihr"
 date: 2013-08-01
 description: "Balade dans Riquewihr. Ce pittoresque village alsacien avec sa cité médiévale, ses maisons à colombage, ses couleurs locales, reflète l'âme de l'Alsace. Ambiance chaleureuse, soleil au zénith, boutiques de souvenirs attirent les touristes de passage"
 slug: "mister-wackes-dalsace-de-sortie-a-riquewihr"
-featured_image: "/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_175.jpg"
+featured_image: "/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_175.webp"
 type: "post"
 ---
 
@@ -30,18 +30,18 @@ Si vous aussi souhaitez rencontrer Mister Wackes d'Alsace dans votre village, n'
 ## Notre Alsace du cœur en image
 
 <div class="gallery-grid">
-  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_084.jpg"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_084.jpg" alt="Balade dans Riquewihr. Ce pittoresque village alsacien avec sa cité médiévale et ses maisons à colombage" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_085.jpg"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_085.jpg" alt="Mister Wackes d'Alsace de sortie à Riquewihr" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_087.jpg"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_087.jpg" alt="Mister Wackes d'Alsace de sortie à Riquewihr" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_088.jpg"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_088.jpg" alt="Mister Wackes d'Alsace de sortie à Riquewihr" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_098.jpg"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_098.jpg" alt="Mister Wackes d'Alsace de sortie à Riquewihr" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_117.jpg"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_117.jpg" alt="Mister Wackes d'Alsace de sortie à Riquewihr" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_125.jpg"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_125.jpg" alt="Mister Wackes d'Alsace de sortie à Riquewihr" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_134.jpg"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_134.jpg" alt="Mister Wackes d'Alsace de sortie à Riquewihr" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_147.jpg"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_147.jpg" alt="Mister Wackes d'Alsace de sortie à Riquewihr" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_155.jpg"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_155.jpg" alt="Mister Wackes d'Alsace de sortie à Riquewihr" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_162.jpg"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_162.jpg" alt="Mister Wackes d'Alsace de sortie à Riquewihr" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_172.jpg"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_172.jpg" alt="Mister Wackes d'Alsace de sortie à Riquewihr" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_084.webp"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_084.webp" alt="Balade dans Riquewihr. Ce pittoresque village alsacien avec sa cité médiévale et ses maisons à colombage" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_085.webp"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_085.webp" alt="Mister Wackes d'Alsace de sortie à Riquewihr" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_087.webp"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_087.webp" alt="Mister Wackes d'Alsace de sortie à Riquewihr" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_088.webp"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_088.webp" alt="Mister Wackes d'Alsace de sortie à Riquewihr" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_098.webp"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_098.webp" alt="Mister Wackes d'Alsace de sortie à Riquewihr" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_117.webp"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_117.webp" alt="Mister Wackes d'Alsace de sortie à Riquewihr" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_125.webp"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_125.webp" alt="Mister Wackes d'Alsace de sortie à Riquewihr" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_134.webp"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_134.webp" alt="Mister Wackes d'Alsace de sortie à Riquewihr" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_147.webp"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_147.webp" alt="Mister Wackes d'Alsace de sortie à Riquewihr" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_155.webp"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_155.webp" alt="Mister Wackes d'Alsace de sortie à Riquewihr" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_162.webp"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_162.webp" alt="Mister Wackes d'Alsace de sortie à Riquewihr" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_172.webp"><img src="/images/2013-08-mister-wackes-dalsace-de-sortie-a-riquewihr/Sortie_Riquewihr_172.webp" alt="Mister Wackes d'Alsace de sortie à Riquewihr" loading="lazy"></a>
 </div>
 
 

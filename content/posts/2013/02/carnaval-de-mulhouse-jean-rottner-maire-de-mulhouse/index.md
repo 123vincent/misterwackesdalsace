@@ -3,7 +3,7 @@ title: "Jean Rottner est l'ami des wackes"
 date: 2013-02-01
 description: "Jean Rottner, personnalité politique, Maire de Mulhouse, fervent supporter des wackes, waggis, wagges a gentillement accepté de poser à coté de Mister Wackes d'Alsace."
 slug: "carnaval-de-mulhouse-jean-rottner-maire-de-mulhouse"
-featured_image: "/images/2013-02-carnaval-de-mulhouse-jean-rottner-maire-de-mulhouse/60ans_Carnaval_Mulhouse_Dimanche_292.jpg"
+featured_image: "/images/2013-02-carnaval-de-mulhouse-jean-rottner-maire-de-mulhouse/60ans_Carnaval_Mulhouse_Dimanche_292.webp"
 type: "post"
 ---
 
@@ -17,9 +17,9 @@ Jean Rottner a très gentillement accepté de poser à coté de Mister Wackes d'
 ## Notre Alsace du cœur en image
 
 <div class="gallery-grid">
-  <a class="glightbox" href="/images/2013-02-carnaval-de-mulhouse-jean-rottner-maire-de-mulhouse/60ans_Carnaval_Mulhouse_Vendredi_Soir_24.jpg"><img src="/images/2013-02-carnaval-de-mulhouse-jean-rottner-maire-de-mulhouse/60ans_Carnaval_Mulhouse_Vendredi_Soir_24.jpg" alt="Jean Rottner et Mister Wackes d'Alsace" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-02-carnaval-de-mulhouse-jean-rottner-maire-de-mulhouse/60ans_Carnaval_Mulhouse_Vendredi_Soir_36.jpg"><img src="/images/2013-02-carnaval-de-mulhouse-jean-rottner-maire-de-mulhouse/60ans_Carnaval_Mulhouse_Vendredi_Soir_36.jpg" alt="Carnavalia City Party 2013, Remise des clefs et du Lumin par Jean Rottner, Maire de Mulhouse" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-02-carnaval-de-mulhouse-jean-rottner-maire-de-mulhouse/60ans_Carnaval_Mulhouse_Vendredi_Soir_37.jpg"><img src="/images/2013-02-carnaval-de-mulhouse-jean-rottner-maire-de-mulhouse/60ans_Carnaval_Mulhouse_Vendredi_Soir_37.jpg" alt="Carnavalia City Party 2013, Remise des clefs et du Lumin par Jean Rottner, Maire de Mulhouse" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-02-carnaval-de-mulhouse-jean-rottner-maire-de-mulhouse/60ans_Carnaval_Mulhouse_Vendredi_Soir_24.webp"><img src="/images/2013-02-carnaval-de-mulhouse-jean-rottner-maire-de-mulhouse/60ans_Carnaval_Mulhouse_Vendredi_Soir_24.webp" alt="Jean Rottner et Mister Wackes d'Alsace" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-02-carnaval-de-mulhouse-jean-rottner-maire-de-mulhouse/60ans_Carnaval_Mulhouse_Vendredi_Soir_36.webp"><img src="/images/2013-02-carnaval-de-mulhouse-jean-rottner-maire-de-mulhouse/60ans_Carnaval_Mulhouse_Vendredi_Soir_36.webp" alt="Carnavalia City Party 2013, Remise des clefs et du Lumin par Jean Rottner, Maire de Mulhouse" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-02-carnaval-de-mulhouse-jean-rottner-maire-de-mulhouse/60ans_Carnaval_Mulhouse_Vendredi_Soir_37.webp"><img src="/images/2013-02-carnaval-de-mulhouse-jean-rottner-maire-de-mulhouse/60ans_Carnaval_Mulhouse_Vendredi_Soir_37.webp" alt="Carnavalia City Party 2013, Remise des clefs et du Lumin par Jean Rottner, Maire de Mulhouse" loading="lazy"></a>
 </div>
 
 

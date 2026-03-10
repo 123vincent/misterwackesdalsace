@@ -3,7 +3,7 @@ title: "Mister Wackes d'Alsace à la cavalcade de Sarreguemines 2013"
 date: 2013-02-01
 description: "Le carnaval de Sarreguemines fait parti des plus belles cavalcades de la région. La culture du carnaval est très encrée dans les murs de cette belle ville lorraine très proche de celle de nos amis allemands."
 slug: "carnaval-de-sarreguemines"
-featured_image: "/images/2013-02-carnaval-de-sarreguemines/Carnaval_Sarreguemines_2013_003.jpg"
+featured_image: "/images/2013-02-carnaval-de-sarreguemines/Carnaval_Sarreguemines_2013_003.webp"
 type: "post"
 ---
 
@@ -25,12 +25,12 @@ Pour arrêter le temps, pour immortaliser chaque événement, chaque fête, Mist
 ## Notre Alsace du cœur en image
 
 <div class="gallery-grid">
-  <a class="glightbox" href="/images/2013-02-carnaval-de-sarreguemines/Carnaval_Sarreguemines_2013_047.jpg"><img src="/images/2013-02-carnaval-de-sarreguemines/Carnaval_Sarreguemines_2013_047.jpg" alt="Mister Wackes d'Alsace à la cavalcade de Sarreguemines 2013" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-02-carnaval-de-sarreguemines/Carnaval_Sarreguemines_2013_114.jpg"><img src="/images/2013-02-carnaval-de-sarreguemines/Carnaval_Sarreguemines_2013_114.jpg" alt="Mister Wackes d'Alsace à la cavalcade de Sarreguemines 2013" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-02-carnaval-de-sarreguemines/Carnaval_Sarreguemines_2013_173.jpg"><img src="/images/2013-02-carnaval-de-sarreguemines/Carnaval_Sarreguemines_2013_173.jpg" alt="Mister Wackes d'Alsace à la cavalcade de Sarreguemines 2013" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-02-carnaval-de-sarreguemines/Carnaval_Sarreguemines_2013_216.jpg"><img src="/images/2013-02-carnaval-de-sarreguemines/Carnaval_Sarreguemines_2013_216.jpg" alt="Mister Wackes d'Alsace à la cavalcade de Sarreguemines 2013" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-02-carnaval-de-sarreguemines/Carnaval_Sarreguemines_2013_237.jpg"><img src="/images/2013-02-carnaval-de-sarreguemines/Carnaval_Sarreguemines_2013_237.jpg" alt="Mister Wackes d'Alsace à la cavalcade de Sarreguemines 2013" loading="lazy"></a>
-  <a class="glightbox" href="/images/2013-02-carnaval-de-sarreguemines/Carnaval_Sarreguemines_2013_278.jpg"><img src="/images/2013-02-carnaval-de-sarreguemines/Carnaval_Sarreguemines_2013_278.jpg" alt="Mister Wackes d'Alsace à la cavalcade de Sarreguemines 2013" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-02-carnaval-de-sarreguemines/Carnaval_Sarreguemines_2013_047.webp"><img src="/images/2013-02-carnaval-de-sarreguemines/Carnaval_Sarreguemines_2013_047.webp" alt="Mister Wackes d'Alsace à la cavalcade de Sarreguemines 2013" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-02-carnaval-de-sarreguemines/Carnaval_Sarreguemines_2013_114.webp"><img src="/images/2013-02-carnaval-de-sarreguemines/Carnaval_Sarreguemines_2013_114.webp" alt="Mister Wackes d'Alsace à la cavalcade de Sarreguemines 2013" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-02-carnaval-de-sarreguemines/Carnaval_Sarreguemines_2013_173.webp"><img src="/images/2013-02-carnaval-de-sarreguemines/Carnaval_Sarreguemines_2013_173.webp" alt="Mister Wackes d'Alsace à la cavalcade de Sarreguemines 2013" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-02-carnaval-de-sarreguemines/Carnaval_Sarreguemines_2013_216.webp"><img src="/images/2013-02-carnaval-de-sarreguemines/Carnaval_Sarreguemines_2013_216.webp" alt="Mister Wackes d'Alsace à la cavalcade de Sarreguemines 2013" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-02-carnaval-de-sarreguemines/Carnaval_Sarreguemines_2013_237.webp"><img src="/images/2013-02-carnaval-de-sarreguemines/Carnaval_Sarreguemines_2013_237.webp" alt="Mister Wackes d'Alsace à la cavalcade de Sarreguemines 2013" loading="lazy"></a>
+  <a class="glightbox" href="/images/2013-02-carnaval-de-sarreguemines/Carnaval_Sarreguemines_2013_278.webp"><img src="/images/2013-02-carnaval-de-sarreguemines/Carnaval_Sarreguemines_2013_278.webp" alt="Mister Wackes d'Alsace à la cavalcade de Sarreguemines 2013" loading="lazy"></a>
 </div>
 
 
